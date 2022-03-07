@@ -1,3 +1,12 @@
 body {
     font-family: Raleway;
 }
+
+.alert-yellow-custom {
+    background-color: #FFCA2C;
+}
+
+.mandatory {
+    color: red;
+    display: inline;
+}
