@@ -1,5 +1,5 @@
 body {
-    font-family: Raleway;
+    font-family: "Raleway";
 }
 
 .alert-yellow-custom {
@@ -7,6 +7,19 @@ body {
 }
 
 .mandatory {
+    font-size: 2em;
     color: red;
     display: inline;
+}
+
+.mandatory.not-mandatory {
+    visibility: hidden;
+}
+
+.form-control.custom-box {
+    width: 20em;
+}
+
+.form-control.custom-box-country {
+    width: 39em;
 }
