@@ -1,5 +1,5 @@
 # front-end-test
-A simple form website for front-end test.
+A simple form website for my front-end test.
 
 The task is to create a registration form using html and css. I use Bootstrap 5 for the styling.
 
